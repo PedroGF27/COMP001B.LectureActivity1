@@ -1,7 +1,29 @@
+/* styling the body element */
 body{ 
+
     background-color: orange;
 }
 
-h1 {
+p {
     color: aqua
+}
+/* styling using id selector */
+#example-of-id {
+    font-weight: 400;
+}
+
+/* styling using class selector*/
+.example-of-class {
+    font-size: x-large;
+}
+
+/* styling using pseudo class*/
+a:hover {
+    color: green;
+}
+
+/* styling using pseudo element*/
+p::first-letter {
+font-weight: 500;
+color: black;
 }
