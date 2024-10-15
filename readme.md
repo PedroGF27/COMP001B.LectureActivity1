@@ -1,2 +1,2 @@
 Author: Pedro Garcia
-Purpose: Lecture Activity
+Purpose: Lecture Activity 1
